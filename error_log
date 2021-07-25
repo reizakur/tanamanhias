@@ -1,0 +1,220 @@
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[04-Jul-2021 13:59:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[04-Jul-2021 13:59:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[04-Jul-2021 14:05:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[04-Jul-2021 14:05:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[05-Jul-2021 07:45:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[05-Jul-2021 14:32:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/joeloecs/public_html/bersama/tanamanhias/koneksi.php on line 2
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 61
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 68
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 141
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 148
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 160
+[05-Jul-2021 14:33:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 167
+[05-Jul-2021 14:41:47 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[06-Jul-2021 08:34:15 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[06-Jul-2021 08:58:07 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:08 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:08 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:08 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:27 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:28 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:28 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:28 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:29 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:29 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:33 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:44 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:45 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 08:58:45 UTC] PHP Parse error:  syntax error, unexpected '" data-gall="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/joeloecs/public_html/bersama/tanamanhias/index.php on line 177
+[06-Jul-2021 09:00:38 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[06-Jul-2021 09:18:06 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[06-Jul-2021 11:12:31 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[06-Jul-2021 12:07:53 UTC] PHP Notice:  Undefined index: id_club in /home/joeloecs/public_html/bersama/tanamanhias/komentar.php on line 7
+[06-Jul-2021 12:07:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/joeloecs/public_html/bersama/tanamanhias/komentar.php on line 10
+[06-Jul-2021 14:36:42 UTC] PHP Notice:  Undefined index: komentar in /home/joeloecs/public_html/bersama/tanamanhias/detail.php on line 162
+[06-Jul-2021 14:36:42 UTC] PHP Notice:  Undefined index: komentar in /home/joeloecs/public_html/bersama/tanamanhias/detail.php on line 162
+[06-Jul-2021 14:36:54 UTC] PHP Notice:  Undefined index: komentar in /home/joeloecs/public_html/bersama/tanamanhias/detail.php on line 162
+[06-Jul-2021 14:36:54 UTC] PHP Notice:  Undefined index: komentar in /home/joeloecs/public_html/bersama/tanamanhias/detail.php on line 162
+[06-Jul-2021 14:51:40 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[06-Jul-2021 14:51:45 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[06-Jul-2021 14:51:54 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[06-Jul-2021 14:51:58 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:51:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[06-Jul-2021 14:52:09 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:52:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[06-Jul-2021 14:52:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[06-Jul-2021 14:52:34 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[06-Jul-2021 14:52:39 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[06-Jul-2021 14:52:43 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[06-Jul-2021 14:53:35 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[06-Jul-2021 14:53:37 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[15-Jul-2021 09:20:11 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[15-Jul-2021 09:20:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[15-Jul-2021 09:20:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[15-Jul-2021 09:36:48 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[15-Jul-2021 09:36:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[15-Jul-2021 09:36:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[15-Jul-2021 15:40:12 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[15-Jul-2021 15:40:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[15-Jul-2021 15:40:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[15-Jul-2021 16:05:23 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[15-Jul-2021 16:05:27 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[16-Jul-2021 07:59:44 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[16-Jul-2021 07:59:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[16-Jul-2021 07:59:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[16-Jul-2021 08:18:03 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[16-Jul-2021 13:08:20 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[16-Jul-2021 13:08:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[16-Jul-2021 13:08:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[16-Jul-2021 13:08:50 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[16-Jul-2021 13:09:19 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[16-Jul-2021 13:09:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[16-Jul-2021 13:09:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[16-Jul-2021 13:51:47 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[18-Jul-2021 14:02:12 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:02:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:02:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[18-Jul-2021 14:30:21 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[18-Jul-2021 14:32:59 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:32:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:32:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[18-Jul-2021 14:33:50 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[18-Jul-2021 14:41:00 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:41:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:41:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[18-Jul-2021 14:57:23 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:57:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[18-Jul-2021 14:57:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 10:55:36 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:55:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:55:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 10:55:47 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:55:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:55:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 10:55:57 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:55:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:55:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 10:57:40 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:57:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 10:57:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 10:58:30 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 58
+[22-Jul-2021 10:58:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 58
+[22-Jul-2021 10:58:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 65
+[22-Jul-2021 11:08:37 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:08:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:08:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 11:17:15 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:17:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:17:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 11:17:22 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:18:31 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:18:32 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:18:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:18:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 11:18:47 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:18:54 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:18:59 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:18:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:18:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 11:19:13 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:19:18 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:19:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:19:21 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:19:22 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:19:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:19:32 UTC] PHP Notice:  Undefined variable: con in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:19:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 59
+[22-Jul-2021 11:19:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 66
+[22-Jul-2021 11:20:00 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:20:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:20:05 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:20:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:20:07 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:20:10 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:20:12 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:20:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:20:18 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[22-Jul-2021 11:21:41 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:21:53 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:21:56 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:21:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:22:08 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:22:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:22:11 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:23:42 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:23:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:23:44 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:23:46 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:23:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:23:49 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:36:13 UTC] PHP Notice:  Undefined index: id_jenis_tanaman in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 5
+[22-Jul-2021 11:36:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/joeloecs/public_html/bersama/tanamanhias/about.php on line 116
+[22-Jul-2021 11:36:17 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:36:58 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:37:03 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:37:22 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:37:47 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:01 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:02 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:15 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:40 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:48 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:49 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:38:57 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:39:13 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:39:24 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:39:34 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:39:35 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:41:15 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:41:23 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:41:42 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:41:45 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:42:12 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:42:17 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman.php on line 9
+[22-Jul-2021 11:43:26 UTC] PHP Notice:  Undefined index: nama_kota in /home/joeloecs/public_html/bersama/tanamanhias/jenis_tanaman1.php on line 9
+[22-Jul-2021 11:46:16 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
+[25-Jul-2021 13:28:13 UTC] PHP Notice:  Undefined index: id_user in /home/joeloecs/public_html/bersama/tanamanhias/login_exe.php on line 14
